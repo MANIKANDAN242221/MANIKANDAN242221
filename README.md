@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Manikandan - Cloud and DevOps Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MANIKANDAN242221/REPO-NAME/main/assets/banner.svg" alt="Manikandan - Cloud and DevOps Engineer" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Manikandan</h1>
