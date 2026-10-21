@@ -1,3 +1,19 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Manikandan - Cloud and DevOps Engineer" width="100%"/>
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F7FF"/>
+      <stop offset="0.25" stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="0.75" stop-color="#9333EA"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <style>
+      .t{font:700 72px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff;animation:fade 1.2s ease-in}
+      .d{font:500 28px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff;animation:fade 1.8s ease-in}
+      @keyframes fade{from{opacity:0}to{opacity:1}}
+    </style>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V230C1050 285 900 300 750 268C600 236 450 196 300 226C180 250 80 268 0 248Z"/>
+  <text x="600" y="128" text-anchor="middle" class="t">Manikandan</text>
+  <text x="600" y="182" text-anchor="middle" class="d">Cloud &amp; DevOps Engineer</text>
+</svg>
