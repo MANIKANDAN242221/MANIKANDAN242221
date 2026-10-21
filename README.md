@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Manikandan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=60&color=0:00F7FF,25:2563EB,50:7C3AED,75:9333EA,100:0F172A" alt="Manikandan - Cloud and DevOps Engineer" width="100%"/>
+  <img src="assets/banner.svg" alt="Manikandan - Cloud and DevOps Engineer" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Manikandan</h1>
