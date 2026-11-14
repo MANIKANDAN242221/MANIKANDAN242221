@@ -1,131 +1,106 @@
-**<!-- ========================================================= -->
-<!--              🚀 MANIKANDAN | DEVOPS PORTFOLIO 🚀          -->
+<!-- ========================================================= -->
+<!--          MANIKANDAN G | AWS DEVOPS ENGINEER PORTFOLIO      -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MANIKANDAN242221/REPO-NAME/main/assets/banner.svg" alt="Manikandan - Cloud and DevOps Engineer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Manikandan%20G&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AWS%20DevOps%20Engineer%20%7C%20Terraform%20%7C%20CI%2FCD%20%7C%20Kubernetes&descAlignY=58&descSize=18&color=0:0F172A,50:2563EB,100:06B6D4" width="100%" alt="Manikandan G - AWS DevOps Engineer"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Manikandan</h1>
-<h3 align="center">☁️ Cloud & DevOps Engineer | AWS | Kubernetes | Terraform</h3>
+<h3 align="center">☁️ AWS DevOps Engineer · Terraform · CI/CD · Kubernetes · Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer+%F0%9F%9A%80;AWS+Infrastructure+Automation+%E2%98%81%EF%B8%8F;Kubernetes+%7C+Docker+%7C+Terraform+%E2%9A%99%EF%B8%8F;CI%2FCD+Pipeline+Engineering+%F0%9F%94%A5;Monitoring+%7C+DevSecOps+%7C+GitOps+%F0%9F%93%8A" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=AWS+DevOps+Engineer+%F0%9F%9A%80;Terraform+Multi-Environment+Provisioning+%F0%9F%8F%97%EF%B8%8F;Jenkins+%7C+GitHub+Actions+%7C+Argo+CD+%F0%9F%94%81;Python+%2B+Boto3+Cloud+Automation+%F0%9F%90%8D;EKS+%7C+Lambda+%7C+EC2+%7C+RDS+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-EKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Boto3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Manikandan24?style=for-the-badge&color=00c3ff&labelColor=0f172a&logo=github"/>
-  <img src="https://img.shields.io/github/stars/Manikandan24?style=for-the-badge&color=ffce00&labelColor=0f172a&logo=github&affiliations=OWNER"/>
-  <img src="https://komarev.com/ghpvc/?username=Manikandan24&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/MANIKANDAN242221?style=for-the-badge&color=00c3ff&labelColor=0f172a&logo=github"/>
+  <img src="https://komarev.com/ghpvc/?username=MANIKANDAN242221&style=for-the-badge&color=blueviolet"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manikandan0101"><img src="https://img.shields.io/badge/LinkedIn-Manikandan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:manikandanpro2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-manikandanpro2020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:manikandanpro2020@gmail.com"><img src="https://img.shields.io/badge/Email-manikandanpro2020%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🌌 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+AWS DevOps Engineer with hands-on production experience building and supporting AWS infrastructure, automating cloud operations with **Python & Boto3**, and running **Jenkins / GitHub Actions** CI/CD pipelines across Dev, QA, Staging and Production.
 
-💡 Cloud & DevOps Engineer focused on designing **scalable, secure, production-ready** cloud infrastructure.
+- 🏗️ Provisioning **multi-environment AWS infrastructure with Terraform**
+- 🔁 Building **reusable CI/CD pipeline templates** for EKS, Lambda, EC2 and static sites
+- 🚚 **Cross-account AWS migrations** — S3, EKS, EC2 AMIs, encrypted RDS
+- 🐍 **Cloud automation with Python + Boto3** (76+ S3 buckets moved between accounts)
+- 🔐 **Security-minded ops** — IAM least privilege, CloudTrail investigation, Trivy / Gitleaks / SonarQube
+- 📚 Currently preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**
 
-🔥 **Specialized in:**
-
-- ☁️ AWS Cloud Infrastructure
-- ⚙️ Kubernetes & Amazon EKS
-- 🏗️ Terraform Infrastructure Automation
-- 🚀 CI/CD Pipeline Engineering
-- 📊 Monitoring & Observability
-- 🔐 DevSecOps & Security Automation
-
-📍 Chennai, India  
-🏢 DevOps Engineer @ **Blackdart Labs Pvt Ltd**
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding"/>
-
-</td>
-</tr>
-</table>
+📍 Coimbatore, India · 🏢 AWS DevOps Engineer @ **Exxalt Core Technology**
 
 ---
 
 ## ⚡ Tech Stack
 
-<h4 align="center">☁️ Cloud Platforms</h4>
+<h4 align="center">☁️ Cloud — AWS</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+  <code>EC2</code> <code>EKS</code> <code>Lambda</code> <code>S3</code> <code>RDS</code> <code>VPC</code> <code>IAM</code> <code>ECR</code>
+  <code>CloudFront</code> <code>Route 53</code> <code>CloudWatch</code> <code>CloudTrail</code> <code>EventBridge</code> <code>Glue</code> <code>Athena</code>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-<h4 align="center">⚙️ DevOps & Infrastructure</h4>
+<h4 align="center">🏗️ IaC · CI/CD · Containers</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,gitlab,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=terraform,jenkins,githubactions,docker,kubernetes,git,bitbucket,linux,bash,python" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Boto3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<h4 align="center">📊 Monitoring & Observability</h4>
+<h4 align="center">📊 Monitoring · 🔐 DevSecOps</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
-
-<h4 align="center">💻 Programming & Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman" />
-</p>
-
-<h4 align="center">🔐 DevSecOps & Security</h4>
-<p align="center">
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gitleaks-DC2626?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 </p>
 
 ---
 
-## 🏗️ Production Experience
+## 🏗️ Experience
 
-### 🟢 Blackdart Labs Pvt Ltd — DevOps Engineer
-`Mar 2026 – Present` · Chennai
+### 🟢 AWS DevOps Engineer — Exxalt Core Technology
+`Aug 2026 – Present` · Coimbatore
 
-- Designed scalable AWS infrastructure for production workloads
-- Managed Kubernetes (Amazon EKS) production clusters and improved workload stability
-- Automated CI/CD pipelines for faster, repeatable deployments
-- Configured EventBridge rules and API Destinations for event-driven integrations
-- Implemented monitoring and alerting with CloudWatch
-- Set up and managed AWS Client VPN for secure access
+- Designed and provisioned AWS infrastructure for multiple workloads — **EKS, Lambda, EC2, S3, RDS, CloudFront**
+- Provisioned **Dev, Staging and Production** environments with **Terraform**
+- Built a **centralized GitHub Actions pipeline repo** that builds and deploys multiple static websites to Hostinger servers — no more manual uploads
 
-**AWS Services:** `EKS` `Lambda` `S3` `RDS` `ALB` `SES` `SQS` `CloudWatch` `EventBridge`
+### 🔵 Junior DevOps Engineer — Blackdart Labs Pvt Ltd *(formerly Energetics AI)*
+`Jul 2025 – May 2026` · Chennai
 
-### 🔵 Energetics AI Pvt Ltd — DevOps Engineer
-`Jul 2025 – Feb 2026` · Chennai
-
-- Migrated production microservices, including cross-account AWS migrations
-- Built Jenkins automation pipelines
-- Managed Docker image builds and Amazon ECR workflows
-- Implemented OpenVPN networking
-- Handled IAM security operations and access management
-
-**Technologies:** `Jenkins` `Docker` `ECR` `AWS` `Terraform` `EKS` `IAM`
+- Supported AWS infrastructure across **Dev, QA, Staging and Production**
+- Automated cloud operations with **Python + Boto3**, including transferring **76+ S3 buckets** between AWS accounts
+- Supported **cross-account migrations** of S3, EKS, EC2 AMIs and encrypted RDS
+- Built and maintained **Jenkins pipelines** deploying to EKS, Lambda and EC2; created **reusable pipeline templates**
+- Troubleshot deployment and production issues across AWS, EKS and Jenkins
+- Used **CloudTrail and IAM controls** in the response to a production incident involving exposed AWS credentials
 
 ---
 
@@ -133,30 +108,46 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ☁️ AWS Infrastructure Automation
+### 🏗️ AWS Infra with Terraform
 
-✅ Modular Terraform infrastructure  
-✅ Production-grade VPC design  
-✅ EKS cluster provisioning  
-✅ RDS + ALB integration  
-✅ Remote backend (S3 + state locking)
+✅ Reusable Terraform modules  
+✅ VPC, EKS, RDS, ALB  
+✅ Remote state in S3  
+✅ DynamoDB state locking
 
-**Stack:** `Terraform` `AWS` `EKS` `RDS`
+**Stack:** `Terraform` `VPC` `EKS` `RDS` `ALB`
+
+🔗 [Repo](https://github.com/MANIKANDAN242221)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔄 GitOps CI/CD Platform
+### 🔄 GitOps CI/CD on EKS
 
-✅ Docker build automation  
-✅ Trivy security scanning  
-✅ GitOps deployment via ArgoCD  
-✅ Amazon ECR integration  
-✅ Automated rollouts
+✅ Docker image builds  
+✅ Push to Amazon ECR  
+✅ Argo CD syncs manifests to EKS  
+✅ Trivy image scanning
 
-**Stack:** `Jenkins` `Docker` `Trivy` `ArgoCD` `ECR`
+**Stack:** `Jenkins` `Docker` `ECR` `EKS` `Argo CD`
+
+🔗 [Repo](https://github.com/MANIKANDAN242221)
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Serverless API Ingestion
+
+✅ Scheduled with EventBridge  
+✅ Lambda lands API data in S3  
+✅ Glue: JSON → partitioned Parquet  
+✅ Queried with Athena
+
+**Stack:** `Lambda` `S3` `Glue` `Athena` `EventBridge`
+
+🔗 [Repo](https://github.com/MANIKANDAN242221)
 
 </td>
 </tr>
@@ -166,34 +157,37 @@
 
 ## 📜 Certifications
 
-| 🏅 Certification | 🏢 Provider | 📅 Year |
+| 🏅 Certification | 🏢 Provider | 📅 Date |
 |---|---|---|
-| Manage Kubernetes in Google Cloud | Google Cloud | 2026 |
-| Create & Manage Cloud SQL for PostgreSQL | Google Cloud | 2026 |
+| Manage Kubernetes in Google Cloud | Google Cloud Skills Boost | May 2026 |
+| Create and Manage Cloud SQL for PostgreSQL | Google Cloud Skills Boost | May 2026 |
+| AWS Certified Solutions Architect – Associate (SAA-C03) | AWS | *In progress* |
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manikandan24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MANIKANDAN242221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANIKANDAN242221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manikandan24&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=MANIKANDAN242221&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🧠 DevOps Philosophy
+## 🧠 How I Work
 
 ```yaml
-philosophy:
-  - 🚀 Automate Everything
-  - 📊 Monitor Everything
-  - 🔐 Secure Everything
-  - ⚡ Scale Without Fear
+engineer: Manikandan G
+principles:
+  - infrastructure_as_code: "If it isn't in Terraform, it doesn't exist"
+  - automate_the_toil:      "Script it once with Python, never do it by hand again"
+  - least_privilege:        "IAM scoped to exactly what's needed"
+  - ship_safely:            "Scan, test, then deploy — every pipeline"
+currently_learning: [AWS SAA-C03, GitOps at scale, Observability]
 ```
 
 ---
@@ -202,13 +196,12 @@ philosophy:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manikandan0101"><img src="https://img.shields.io/badge/LinkedIn-Manikandan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Manikandan24"><img src="https://img.shields.io/badge/GitHub-Manikandan24-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:manikandanpro2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/MANIKANDAN242221"><img src="https://img.shields.io/badge/GitHub-MANIKANDAN242221-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:manikandanpro2020@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h3 align="center">⚡ Building scalable cloud infrastructure with automation & reliability</h3>
+<h3 align="center">⚡ Automating AWS infrastructure — reliably, securely, repeatably.</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,25:7C3AED,50:2563EB,75:1E3A8A,100:0F172A" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,50:2563EB,100:0F172A" width="100%"/>
 </p>
-**
