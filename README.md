@@ -1,4 +1,4 @@
-<!-- ========================================================= -->
+**<!-- ========================================================= -->
 <!--              🚀 MANIKANDAN | DEVOPS PORTFOLIO 🚀          -->
 <!-- ========================================================= -->
 
@@ -211,3 +211,4 @@ philosophy:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,25:7C3AED,50:2563EB,75:1E3A8A,100:0F172A" width="100%"/>
 </p>
+**
